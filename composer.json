@@ -1,0 +1,9 @@
+{
+    "name": "vincentbulfon/todo-list-advanced",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    }
+}
